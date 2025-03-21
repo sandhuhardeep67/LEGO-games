@@ -12,3 +12,8 @@
 <p>
   <img src="https://raw.githubusercontent.com/sandhuhardeep67/LEGO-games/main/images/image1.png">
 </p>
+
+</a>
+<p>
+  <img src="https://raw.githubusercontent.com/sandhuhardeep67/LEGO-games/main/images/image2.png">
+</p>
